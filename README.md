@@ -1,5 +1,2 @@
 # hello-world
-Training
-
-
-Hello!  This is my test line
+## This is a markdown file
